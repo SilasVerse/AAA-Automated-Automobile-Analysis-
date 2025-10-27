@@ -5,8 +5,8 @@ It combines **web data extraction (UiPath)**, **data analysis (Python)**, and **
 
 ------
 ## 👥 Team Members
-- [@Naing Soe Htut](https://github.com/nshciei45)
-- [@Htay Lwin](https://github.com/SilasVerse)
+- [Naing Soe Htut](https://github.com/nshciei45)
+- [Htay Lwin](https://github.com/SilasVerse)
 - **Yin Yin Kyaw**  
 - **Khin Kaung Nge**
 
